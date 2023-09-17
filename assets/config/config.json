@@ -1,0 +1,8 @@
+{
+    "defaultHomeLoanInterestRate": 9.65,
+    "defaultHomeLoanAmount": 3000000,
+    "defaultPropertyPrice": 3000000,
+    "defaultHomeLoanYear": 20,
+    "defaultSalary": 98000,
+    "defaultBankBalance": 1179000
+}
